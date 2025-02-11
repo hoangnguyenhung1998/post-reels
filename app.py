@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ✅ Thông tin API
 GOOGLE_SHEET_ID = "15xn6RKYUTEzAFge2eLTazF9ES-2m43aKRjbeDSd5EU0"  # Thay bằng Google Sheet ID của bạn
-API_KEY = "4f5ed0d36596f93e5822f93ebc396f8ba703713e"  # Thay bằng Google API Key của bạn
+API_KEY = "AIzaSyA_g1sLNAhzUH--IiCn9RkobkHynIz6UFk"  # Thay bằng Google API Key của bạn
 ACCESS_TOKEN = "EAAFOwkjZA7ZAIBO3Q9uvgpHdbZCFkp863fZBpM2SbZCIsNtEJ2svB68bS7eGjgEl9wJSIqNpX40ckRDyK3A0MH4pFcyziZC2TcHzoECZC3zj9bCVr62RvQGBjdnE3gT4WBqEcaqZC3GASQDrQfgteUkjLskeZB57DRPtSXdnSC5EgSHuXWngsZBeZCeOlPyeYAz4YPKM5UG47iqSWZCs1OAYhZCC2zdom"
 
 def get_sheets_data():
